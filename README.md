@@ -1,2 +1,3 @@
 # Retail-Industry---Clustering-
-This is a project done on a Grocery Retail Company. The business need from Category Management team was revealed regarding how to group BreakFast Cereals products based on 10 important measurements.
+The VP and the Category Manager of an Organic Grocery Retail Company wanted to know how they could group their cereals items and work on the strategy of maximizing profits. They assume that customers buy what they know and then they could work effectively with other stakeholders such as Marketing team and Pricing Team to maximize the profits on specific items based on their nutrients. 
+From the Customer Survey/ feedback, they already have data that provide the preferred nutrients from customers. So, they are looking to consider that in their pricing and selling strategies. 
